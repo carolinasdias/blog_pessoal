@@ -29,7 +29,7 @@ import jakarta.validation.Valid;
 @CrossOrigin(origins = "*", allowedHeaders = "*")
 
 public class PostagemController {
-
+ 
 	@Autowired
 	private PostagemRepository postagemRepository;
 	
